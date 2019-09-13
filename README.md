@@ -152,9 +152,18 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(83).pdf" style="text-decoration:none;">Physics Olympiad — Basic to Advanced Exercises  </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(84).pdf" style="text-decoration:none;">Tensors for Physics </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(85).pdf" style="text-decoration:none;"> Introduction to Modern Optics </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(86).pdf" style="text-decoration:none;">200 More Puzzling Physics Problems: With Hints and Solutions </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(87).pdf" style="text-decoration:none;">The Feynman Lectures on Physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(88).pdf" style="text-decoration:none;">IIT JEE Super Course in Physics: Optics and Modern Physics </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(89).pdf" style="text-decoration:none;">Fundamentals of Nuclear Reactor Physics</a></b></li>
 
 
 </ul>
