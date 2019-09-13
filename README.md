@@ -141,7 +141,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(77).pdf" style="text-decoration:none;">The Nature of Space and Time </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(79).pdf" style="text-decoration:none;">Introductory Physics I: Elementary Mechanics </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(80).pdf" style="text-decoration:none;">Physics Workbook For Dummies </a></b></li>
 
 
 
