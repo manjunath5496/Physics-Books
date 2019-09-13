@@ -2,54 +2,56 @@
 
                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(1).pdf" style="text-decoration:none;">A Textbook of Engineering Mechanics </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(1).pdf" style="text-decoration:none;">A Heat Transfer Textbook</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(2).pdf" style="text-decoration:none;">Thermodynamics: An Engineering Approach</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(2).pdf" style="text-decoration:none;">Quantum Field Theory: A Modern Introduction</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(3).pdf" style="text-decoration:none;">Engineering for Structural Stability in Bridge Construction</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(4).pdf" style="text-decoration:none;">Fundamentals of Chemical Reaction Engineering</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(5).pdf" style="text-decoration:none;">iOS App Reverse Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(6).pdf" style="text-decoration:none;">Chemical Reaction Engineering</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(7).pdf" style="text-decoration:none;">Higher Engineering Mathematics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(3).pdf" style="text-decoration:none;">Lectures - Stephen Hawking </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(4).pdf" style="text-decoration:none;">Nuclear and Particle Physics</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(5).pdf" style="text-decoration:none;">Elements of Nuclear Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(6).pdf" style="text-decoration:none;">The Universe in a Nutshell</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(7).pdf" style="text-decoration:none;">Modern Physics for Science and Engineering</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(8).pdf" style="text-decoration:none;"> Wood Handbook: Wood as an Engineering Material </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(8).pdf" style="text-decoration:none;"> Conceptual Physics </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(9).pdf" style="text-decoration:none;"> Modern Physics for Scientists and Engineers</a></b></li>
                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(10).pdf" style="text-decoration:none;">NASA Systems Engineering Handbook </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(11).pdf" style="text-decoration:none;">Modeling Tools for Environmental Engineers and Scientists</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(12).pdf" style="text-decoration:none;">Aquaculture Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(13).pdf" style="text-decoration:none;">Engineering rock mechanics: part 2</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(10).pdf" style="text-decoration:none;">Concepts of Physics </a></b></li>                              
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(12).pdf" style="text-decoration:none;">Essential Physics Part I</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(13).pdf" style="text-decoration:none;">Physics: An overview</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(14).pdf" style="text-decoration:none;">Digital Logic And Computer Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(15).pdf" style="text-decoration:none;">Solutions Manuals - Elements Of Chemical Reaction Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(14).pdf" style="text-decoration:none;">Physics II For Dummies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(15).pdf" style="text-decoration:none;">Radiation Physics for Medical Physicists</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(16).pdf" style="text-decoration:none;">Environmental engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(16).pdf" style="text-decoration:none;">Atomic Physics</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(17).pdf" style="text-decoration:none;">An Introduction to Mechanical Engineering</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(17).pdf" style="text-decoration:none;">The Grand Design</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(18).pdf" style="text-decoration:none;">Game Engine Architecture</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(19).pdf" style="text-decoration:none;">Liquid Explosives</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(18).pdf" style="text-decoration:none;">Mathematical Physics: Applied Mathematics for Scientists and Engineers</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(19).pdf" style="text-decoration:none;">Fundamentals of Physics</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(20).pdf" style="text-decoration:none;">Pile Design and Construction Practice </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(20).pdf" style="text-decoration:none;">Mathematical Methods for Physics and Engineering </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(21).pdf" style="text-decoration:none;">Fundamentals of Materials Science and Engineering: An Interactive e Text</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(22).pdf" style="text-decoration:none;">Mathematical And Numerical Modeling In Geotechnical Engineering</a></b></li> 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(21).pdf" style="text-decoration:none;">Quantum Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(22).pdf" style="text-decoration:none;">Concepts of Modern Physics</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(23).pdf" style="text-decoration:none;">Semiconductor Device Physics and Design</a></b></li>
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(24).pdf" style="text-decoration:none;">Bridge to Abstract Mathematics: Mathematical Proof and Structures</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(24).pdf" style="text-decoration:none;">Elementary Physics</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(25).pdf" style="text-decoration:none;">Autodesk 3ds Max: Animation Tutorials</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(26).pdf" style="text-decoration:none;">Mechanical Engineering Drawing Workshop</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(27).pdf" style="text-decoration:none;">Engineering Economy</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(25).pdf" style="text-decoration:none;">Introduction to Elementary Particle Physics</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(26).pdf" style="text-decoration:none;">Problems in General Physics</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(27).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the 10th Dimension</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(28).pdf" style="text-decoration:none;">Reversing: Secrets of Reverse Engineering </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(28).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(29).pdf" style="text-decoration:none;">Hydraulic Structures </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(29).pdf" style="text-decoration:none;">Tensors for Physics </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(30).pdf" style="text-decoration:none;">Fundamentals of Biochemical Engineering</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(30).pdf" style="text-decoration:none;">Advanced Solid State Physics</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(31).pdf" style="text-decoration:none;">Advanced Unsaturated Soil Mechanics and Engineering</a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(32).pdf" style="text-decoration:none;">PLC-based Process Control Engineering Guide</a></b></li> 
