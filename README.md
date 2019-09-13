@@ -146,6 +146,11 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(80).pdf" style="text-decoration:none;">Physics Workbook For Dummies </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(81).pdf" style="text-decoration:none;">Quantum Physics For Dummies </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(82).pdf" style="text-decoration:none;">Nuclear Physics </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(83).pdf" style="text-decoration:none;">Physics Olympiad — Basic to Advanced Exercises  </a></b></li>
 
 
 
