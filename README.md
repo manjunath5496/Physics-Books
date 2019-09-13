@@ -132,6 +132,22 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(78).pdf" style="text-decoration:none;">Physics pocket diary of concepts and formulas </a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(11).pdf" style="text-decoration:none;">Cosmos</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(52).pdf" style="text-decoration:none;">Pale Blue Dot</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(55).pdf" style="text-decoration:none;">Dragons of Eden</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(61).pdf" style="text-decoration:none;">Brief Answers to the Big Questions </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-Books/blob/master/pyb(77).pdf" style="text-decoration:none;">The Nature of Space and Time </a></b></li>
+
+
+
+
+
+
+
+
 
 
 </ul>
