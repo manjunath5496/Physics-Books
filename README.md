@@ -53,40 +53,41 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(30).pdf" style="text-decoration:none;">Advanced Solid State Physics</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(31).pdf" style="text-decoration:none;">Advanced Unsaturated Soil Mechanics and Engineering</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(32).pdf" style="text-decoration:none;">PLC-based Process Control Engineering Guide</a></b></li> 
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(31).pdf" style="text-decoration:none;">SAT II Physics</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(32).pdf" style="text-decoration:none;">Engineering Physics</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(33).pdf" style="text-decoration:none;">Photography, Physics, and Complexity: Strange Bedfellows or a New Aesthetic?</a></b></li> 
                    
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(34).pdf" style="text-decoration:none;">Machine Drawing</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(34).pdf" style="text-decoration:none;">Physics of Magnetism and Magnetic Materials</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(35).pdf" style="text-decoration:none;">Architectural and Engineering Design Standards</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(35).pdf" style="text-decoration:none;">Modern Particle Physics</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(36).pdf" style="text-decoration:none;">Physics and Engineering of Radiation Detection</a></b></li> 
   
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(37).pdf" style="text-decoration:none;">Fundamentals Of Reservoir Engineering</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(38).pdf" style="text-decoration:none;">Geotechnical Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(39).pdf" style="text-decoration:none;">Practical MATLAB: Applications For Engineers</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(40).pdf" style="text-decoration:none;">Introduction to SolidWorks</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(41).pdf" style="text-decoration:none;">Handbook of Networked and Embedded Control Systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(42).pdf" style="text-decoration:none;">Understanding Engineering Mathematics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(37).pdf" style="text-decoration:none;">Fundamentals of Geophysics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(38).pdf" style="text-decoration:none;">Teacher Education in Physics: Research, Curriculum, and Practice</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(39).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(40).pdf" style="text-decoration:none;">Physics 101: An Introduction To Physics</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(41).pdf" style="text-decoration:none;">Dictionary of Geophysics, Astrophysics, and Astronomy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(42).pdf" style="text-decoration:none;">Beyond Einstein: from the Big Bang to black holes </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(43).pdf" style="text-decoration:none;">Principles Of Bioseparations Engineering</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(44).pdf" style="text-decoration:none;">Performance-based Plastic Design Of Seismic Resistant Special Truss Moment Frames </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(45).pdf" style="text-decoration:none;">Modern Control Engineering</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(43).pdf" style="text-decoration:none;">Mathematics for theoretical physics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(44).pdf" style="text-decoration:none;">Black Holes And Baby Universes And Other Essays  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(45).pdf" style="text-decoration:none;">Fundamentals of Plasma Physics</a></b></li>
                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(46).pdf" style="text-decoration:none;">Object-Oriented and Classical Software Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(46).pdf" style="text-decoration:none;">The Physics of Waves</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(47).pdf" style="text-decoration:none;">Engineering Surveying</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(47).pdf" style="text-decoration:none;">Computational Physics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(48).pdf" style="text-decoration:none;">Audio Engineering </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(48).pdf" style="text-decoration:none;">Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(49).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Structural Analysis Guide</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(50).pdf" style="text-decoration:none;">Engineering Thermodynamics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(49).pdf" style="text-decoration:none;">Introductory Physics II: Waves, Acoustics, Electromagnetism, Optics, and Modern Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(50).pdf" style="text-decoration:none;">Polymer Physics </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(51).pdf" style="text-decoration:none;">Chemical Thermodynamics of Materials: Macroscopic and Microscopic Aspects </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(51).pdf" style="text-decoration:none;">Basic Theoretical Physics </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(52).pdf" style="text-decoration:none;">Physics and Engineering of Radiation Detection</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(52).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(53).pdf" style="text-decoration:none;">Advanced Methods of Structural Analysis</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(53).pdf" style="text-decoration:none;">Introductory Physics II: Electricity, Magnetism and Optics</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(54).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics </a></b></li>
 
