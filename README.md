@@ -105,18 +105,17 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(60).pdf" style="text-decoration:none;">An Introduction to Black Holes, Information and the String Theory Revolution</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(61).pdf" style="text-decoration:none;">Engineering Drawing</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(62).pdf" style="text-decoration:none;">Engineering Fluid Mechanics</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(63).pdf" style="text-decoration:none;">Engineering Mechanics And Drawing (Electrical Machines and Appliances) </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(64).pdf" style="text-decoration:none;">Orbital Mechanics for Engineering Students</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(65).pdf" style="text-decoration:none;">An Introduction to Aircraft Structural Analysis</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(62).pdf" style="text-decoration:none;">A Briefer History of Time</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(63).pdf" style="text-decoration:none;">Statistical Physics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(64).pdf" style="text-decoration:none;">Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(65).pdf" style="text-decoration:none;">The Poetry of Physics and The Physics of Poetry</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(66).pdf" style="text-decoration:none;"> Object-Oriented Software Engineering: Practical software development using UML and Java </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(66).pdf" style="text-decoration:none;"> A-Level Physics Revision notes 2015 </a></b></li>
                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(67).pdf" style="text-decoration:none;">Learning RSLogix 5000 Programming </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(68).pdf" style="text-decoration:none;">Engineering Optimization</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(69).pdf" style="text-decoration:none;">High Voltage Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(70).pdf" style="text-decoration:none;">Groundwork and Civil Engineering</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(67).pdf" style="text-decoration:none;">Electromagnetic Field Theory </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(68).pdf" style="text-decoration:none;">Determinants and Their Applications in Mathematical Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(69).pdf" style="text-decoration:none;">The Cambridge Handbook of Physics Formulas</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(70).pdf" style="text-decoration:none;">Applied Mathematical Methods in Theoretical Physics</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(71).pdf" style="text-decoration:none;">Highway Engineering</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(72).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Basic Analysis Guide</a></b></li>
