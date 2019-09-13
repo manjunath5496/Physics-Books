@@ -117,66 +117,20 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(69).pdf" style="text-decoration:none;">The Cambridge Handbook of Physics Formulas</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(70).pdf" style="text-decoration:none;">Applied Mathematical Methods in Theoretical Physics</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(71).pdf" style="text-decoration:none;">Highway Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(72).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Basic Analysis Guide</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(71).pdf" style="text-decoration:none;">Introduction to string field theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(72).pdf" style="text-decoration:none;">Introduction to Particle Physics</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(73).pdf" style="text-decoration:none;">Software Engineering: Principles and Practice</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(73).pdf" style="text-decoration:none;">A Brief History of Time</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(74).pdf" style="text-decoration:none;">Statistical Thermodynamics: Fundamentals and Applications</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(74).pdf" style="text-decoration:none;">The Theory of Everything</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(75).pdf" style="text-decoration:none;">Digital Control Engineering: Analysis and Design</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(77).pdf" style="text-decoration:none;">Civil Engineering Formulas</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(75).pdf" style="text-decoration:none;">Formulae Sheet for Physics</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(76).pdf" style="text-decoration:none;">Equations in Physics</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(78).pdf" style="text-decoration:none;">Risk and Safety in Civil Engineering </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(78).pdf" style="text-decoration:none;">Physics pocket diary of concepts and formulas </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(79).pdf" style="text-decoration:none;">Numerical Methods for Chemical Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(80).pdf" style="text-decoration:none;">Handbook of Electrical Engineering</a></b></li> 
- 
- 
-
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(81).pdf" style="text-decoration:none;">Computer Aided Engineering Design</a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(82).pdf" style="text-decoration:none;">Electric Power Engineering Handbook</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(83).pdf" style="text-decoration:none;">Control Engineering</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(84).pdf" style="text-decoration:none;">AutoCAD LT 2011: Customization Guide</a></b></li>
-   
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(85).pdf" style="text-decoration:none;">Engineering Design with SOLIDWORKS 2016 and Video Instruction </a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(87).pdf" style="text-decoration:none;">Advanced Natural Gas Engineering </a></b></li>                              
-
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(88).pdf" style="text-decoration:none;">Power Plant Engineering</a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(90).pdf" style="text-decoration:none;">Engineering Maintenance: A Modern Approach</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(91).pdf" style="text-decoration:none;">Financial Engineering Principles: A Unified Theory for Financial Product Analysis and Valuation</a></b></li> 
-
-                   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(92).pdf" style="text-decoration:none;">Flight Dynamics Principles</a></b></li> 
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(93).pdf" style="text-decoration:none;">Fundamentals of Probability and Statistics for Engineers</a></b></li> 
-  
- 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(94).pdf" style="text-decoration:none;">Fundamentals of Thermodynamics</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(95).pdf" style="text-decoration:none;">Chemical Engineering Thermodynamics II</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(96).pdf" style="text-decoration:none;">Thermodynamics Demystified</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(97).pdf" style="text-decoration:none;">Mechanical Engineering Principles</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(98).pdf" style="text-decoration:none;">Lecture Notes: Structural Concepts and Systems for Architects</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(99).pdf" style="text-decoration:none;">Fundamentals of Electrical Engineering I </a></b></li>
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(100).pdf" style="text-decoration:none;">Engineering Ethics: Concepts and Cases</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(101).pdf" style="text-decoration:none;">Solution Manuals Of Advanced Engineering Mathematics </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(103).pdf" style="text-decoration:none;">Essentials of Chemical Reaction Engineering</a></b></li>
-                            
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(104).pdf" style="text-decoration:none;">Chemical Engineering: Solutions To The Problems In Chemical Engineering Volume 1</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(105).pdf" style="text-decoration:none;">The Engineer: Follow Elon Musk on a journey from South Africa to Mars</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(106).pdf" style="text-decoration:none;">Environmental Engineering Dictionary and Directory </a></b></li>
-                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(107).pdf" style="text-decoration:none;">Fundamentals of Chemical Engineering Thermodynamics</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(108).pdf" style="text-decoration:none;">Software Engineering: Theory and Practice </a></b></li>
 
 
 
