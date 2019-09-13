@@ -85,25 +85,25 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(51).pdf" style="text-decoration:none;">Basic Theoretical Physics </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(52).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics</a></b></li>
+
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(53).pdf" style="text-decoration:none;">Introductory Physics II: Electricity, Magnetism and Optics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(54).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(55).pdf" style="text-decoration:none;">Engineering Analysis with SolidWorks Simulation 2011  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(56).pdf" style="text-decoration:none;">Hysys: An Introduction to Chemical Engineering Simulation</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(57).pdf" style="text-decoration:none;">Basic Engineering Mathematics  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(58).pdf" style="text-decoration:none;">Piping Materials: selection and applications  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(54).pdf" style="text-decoration:none;">Practical Physics </a></b></li>
 
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(59).pdf" style="text-decoration:none;">Engineering Thermodynamics of Thermal Radiation: For Solar Power Utilization </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(56).pdf" style="text-decoration:none;"> GRE Physics Test Practice Book</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(60).pdf" style="text-decoration:none;">Web engineering: principles and techniques</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(57).pdf" style="text-decoration:none;">The Physics of Quantum Mechanics  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(58).pdf" style="text-decoration:none;">Mathematical Tools for Physics  </a></b></li>
+
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(59).pdf" style="text-decoration:none;">Physics Problem Solving in Cooperative Learning Groups </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(60).pdf" style="text-decoration:none;">An Introduction to Black Holes, Information and the String Theory Revolution</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(61).pdf" style="text-decoration:none;">Engineering Drawing</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(62).pdf" style="text-decoration:none;">Engineering Fluid Mechanics</a></b></li>                              
