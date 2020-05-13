@@ -1,3 +1,39 @@
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="CollageFisica.jpg"><img class="thumbimage" src="CollageFisica.jpg" srcset="CollageFisica.jpg" alt="" width="300" height="217" data-file-width="831" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+Various examples of physical phenomena</div>
+<div class="thumbcaption">&nbsp;</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<td><a class="image" href="nucleus.png"><img src="nucleus.png" srcset="nucleus.png" width="100" height="114" data-file-width="260" data-file-height="296" /></a></td>
+</tr>
+<tr>
+<th><a class="mw-selflink selflink">Physics</a></th>
+</tr>
+<tr>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="History of physics" href="https://en.wikipedia.org/wiki/History_of_physics">History</a></li>
+<li><a title="Outline of physics" href="https://en.wikipedia.org/wiki/Outline_of_physics">Outline</a></li>
+<li><a title="Glossary of physics" href="https://en.wikipedia.org/wiki/Glossary_of_physics">Glossary</a></li>
+<li><a title="Index of physics articles" href="https://en.wikipedia.org/wiki/Index_of_physics_articles">Index</a></li>
+<li><a title="Category:Physics" href="https://en.wikipedia.org/wiki/Category:Physics">Category</a></li>
+<li><a title="Portal:Physics" href="https://en.wikipedia.org/wiki/Portal:Physics">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 <p><strong>Physics</strong>&nbsp;(from&nbsp;<a class="mw-redirect" title="Ancient Greek language" href="https://en.wikipedia.org/wiki/Ancient_Greek_language">Ancient Greek</a>:&nbsp;<span lang="grc">&phi;&upsilon;&sigma;&iota;&kappa;ή (ἐ&pi;&iota;&sigma;&tau;ή&mu;&eta;)</span>,&nbsp;<small><a class="mw-redirect" title="Romanization of Ancient Greek" href="https://en.wikipedia.org/wiki/Romanization_of_Ancient_Greek">romanized</a>:&nbsp;</small><em lang="grc-Latn" title="Ancient Greek-language romanization">physikḗ (epistḗmē)</em>,&nbsp;<small><a title="Literal translation" href="https://en.wikipedia.org/wiki/Literal_translation">lit.</a>&nbsp;</small>'knowledge of nature', from&nbsp;<span lang="grc" title="Ancient Greek language text">&phi;ύ&sigma;&iota;&sigmaf;</span>&nbsp;<em>ph&yacute;sis</em>&nbsp;'nature')&nbsp;is the&nbsp;<a title="Natural science" href="https://en.wikipedia.org/wiki/Natural_science">natural science</a>&nbsp;that studies&nbsp;<a title="Matter" href="https://en.wikipedia.org/wiki/Matter">matter</a>,&nbsp;its&nbsp;<a class="mw-redirect" title="Motion (physics)" href="https://en.wikipedia.org/wiki/Motion_(physics)">motion</a>&nbsp;and behavior through&nbsp;<a title="" href="https://en.wikipedia.org/wiki/Spacetime">space and time</a>, and the related entities of&nbsp;<a title="Energy" href="https://en.wikipedia.org/wiki/Energy">energy</a>&nbsp;and&nbsp;<a title="Force" href="https://en.wikipedia.org/wiki/Force">force</a>.&nbsp;Physics is one of the most fundamental scientific disciplines, and its main goal is to understand how the&nbsp;<a title="Universe" href="https://en.wikipedia.org/wiki/Universe">universe</a>&nbsp;behaves.</p>
 <p>Physics is one of the oldest&nbsp;<a title="Academic discipline" href="https://en.wikipedia.org/wiki/Academic_discipline">academic disciplines</a>&nbsp;and, through its inclusion of&nbsp;<a title="Astronomy" href="https://en.wikipedia.org/wiki/Astronomy">astronomy</a>, perhaps&nbsp;<em>the</em>&nbsp;oldest.&nbsp;Over much of the past two millennia, physics,&nbsp;<a title="Chemistry" href="https://en.wikipedia.org/wiki/Chemistry">chemistry</a>,&nbsp;<a title="Biology" href="https://en.wikipedia.org/wiki/Biology">biology</a>, and certain branches of&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>&nbsp;were a part of&nbsp;<a title="Natural philosophy" href="https://en.wikipedia.org/wiki/Natural_philosophy">natural philosophy</a>, but during the&nbsp;<a title="Scientific Revolution" href="https://en.wikipedia.org/wiki/Scientific_Revolution">Scientific Revolution</a>&nbsp;in the 17th century these natural sciences emerged as unique research endeavors in their own right.&nbsp;Physics intersects with many&nbsp;<a title="Interdisciplinarity" href="https://en.wikipedia.org/wiki/Interdisciplinarity">interdisciplinary</a>&nbsp;areas of research, such as&nbsp;<a title="Biophysics" href="https://en.wikipedia.org/wiki/Biophysics">biophysics</a>&nbsp;and&nbsp;<a title="Quantum chemistry" href="https://en.wikipedia.org/wiki/Quantum_chemistry">quantum chemistry</a>, and the boundaries of physics are not&nbsp;<a title="Demarcation problem" href="https://en.wikipedia.org/wiki/Demarcation_problem">rigidly defined</a>. New ideas in physics often explain the fundamental mechanisms studied by other sciences&nbsp;and suggest new avenues of research in academic disciplines such as mathematics and&nbsp;<a title="Philosophy" href="https://en.wikipedia.org/wiki/Philosophy">philosophy</a>.</p>
 <p>Advances in physics often enable advances in new&nbsp;<a title="Technology" href="https://en.wikipedia.org/wiki/Technology">technologies</a>. For example, advances in the understanding of&nbsp;<a title="Electromagnetism" href="https://en.wikipedia.org/wiki/Electromagnetism">electromagnetism</a>,&nbsp;<a title="Solid-state physics" href="https://en.wikipedia.org/wiki/Solid-state_physics">solid-state physics</a>, and&nbsp;<a title="Nuclear physics" href="https://en.wikipedia.org/wiki/Nuclear_physics">nuclear physics</a>&nbsp;led directly to the development of new products that have dramatically transformed modern-day society, such as&nbsp;<a title="Television" href="https://en.wikipedia.org/wiki/Television">television</a>,&nbsp;<a title="Computer" href="https://en.wikipedia.org/wiki/Computer">computers</a>,&nbsp;<a class="mw-redirect" title="Domestic appliance" href="https://en.wikipedia.org/wiki/Domestic_appliance">domestic appliances</a>, and&nbsp;<a title="Nuclear weapon" href="https://en.wikipedia.org/wiki/Nuclear_weapon">nuclear weapons</a>;&nbsp;advances in&nbsp;<a title="Thermodynamics" href="https://en.wikipedia.org/wiki/Thermodynamics">thermodynamics</a>&nbsp;led to the development of&nbsp;<a class="mw-redirect" title="Industrialization" href="https://en.wikipedia.org/wiki/Industrialization">industrialization</a>; and advances in&nbsp;<a title="Mechanics" href="https://en.wikipedia.org/wiki/Mechanics">mechanics</a>&nbsp;inspired the development of&nbsp;<a title="Calculus" href="https://en.wikipedia.org/wiki/Calculus">calculus</a>.</p>
